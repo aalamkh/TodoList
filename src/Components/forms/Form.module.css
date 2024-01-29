@@ -1,0 +1,45 @@
+
+.inputing{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;    
+}
+.forming ul{
+   padding-left: 40px;
+   padding-right: 40px;
+}
+.forming input{
+    padding: 8px; 
+    width: 100%;
+    border-radius: 10px;
+  
+}
+
+
+.inputing button{
+     
+    background-color: #011011; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    border: solid 1px gray;
+    margin-left: 10px;
+}
+.inputing button:hover {
+    background-color: #255f62; 
+    color: white;
+  }
+.inputing button{
+    float:right;
+}
+
+
+
+ 
+

@@ -1,0 +1,26 @@
+.layout{
+   background-color:rgb(16, 72, 79);
+   height: 70%;
+   width: 70%;
+   position: absolute;
+   margin-top:8%;
+   margin-left:13%;
+   margin-right:10%;
+   margin-bottom:10%;
+   border-radius: 10px;
+}
+.layout{
+ box-shadow: 20px 8px 9px 9px;
+}
+.layout h1{
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+  
+}
+.layout h3{
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+}

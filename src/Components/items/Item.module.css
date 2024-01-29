@@ -1,0 +1,15 @@
+.iteming{
+    background-color: rgb(94, 176, 176);
+    padding: 10px;
+    margin: 13px;
+    border-radius: 9px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+   
+}
+.iteming button {
+    background: none;
+    border: none;
+}
